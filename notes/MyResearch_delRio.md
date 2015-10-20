@@ -18,7 +18,7 @@ Collaborators:
 
 [Steve Roberts:](https://faculty.washington.edu/sr320/) University of Washington
 
-Lots of time I sin at the computer. This stuff I type: `ls -F thesis`
+Lots of time I sit at the computer. This stuff I type: `ls -F thesis`
 
 ```
 blastn \
