@@ -26,5 +26,5 @@ blastn \
 - database fish \
 ```
 add more data talk about the research with other people.
-[image:]
+[image:](https://github.com/mdelrio1/mdelrio2-btae-nb/blob/master/img/Cgigas.jpg)
 
